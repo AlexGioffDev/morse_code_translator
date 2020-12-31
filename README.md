@@ -2,7 +2,7 @@ This is a **Code Morse Translator** A python console application that allows you
 
 Tasks:
 - [x] Alphabet converter
-- [] Add Symbol and Numbers on the dictionary 
+- [ ] Add Symbol and Numbers on the dictionary 
 
 
 ![Image 1](https://i.postimg.cc/q7QVKxCs/code-morse-image-1.jpg)
